@@ -1,0 +1,3 @@
+pymongo
+dicttoxml==1.7.4
+kafka==1.3.5
